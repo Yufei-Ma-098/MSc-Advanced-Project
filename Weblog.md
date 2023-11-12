@@ -31,8 +31,28 @@
 
 ## September Achievements
 ### Week 1: Experimentation and Prototyping
-- Experimented with various materials and interactive elements to determine the most effective medium for the installation.
-- Started developing early prototypes to test concepts and interactive features.
+#### Exploring Diverse Components
+- Initiated the project by experimenting with a variety of materials and interactive components. The goal was to identify the most effective mediums that could bring our interactive installation to life.
+- Tested different types of air pumps and sensors to understand their capabilities and limitations in the context of our interactive design.
+#### Decision on Air Pump and Valve Module
+After evaluating multiple options, decided to use an integrated air pump and valve module. This module was chosen for its efficiency and compact design, making it ideal for our installation.
+- Features of the Selected Module:
+  - Three-Way Adapter: Facilitates the seamless transition between inflating and deflating, crucial for the dynamic interaction we envisioned.
+  - Inflation and Deflation Buttons: These tactile buttons provide users with straightforward and intuitive control over the air flow, enhancing the interactive experience.
+  - Compact and Robust Design: The module's small footprint allowed for easy integration into the installation without compromising on the aesthetic and functional aspects.
+#### Selecting the Tubing
+Chose specific tubing dimensions to ensure optimal airflow and installation design.
+Tube Specifications:
+- Length: 500mm - This length was ideal to connect the air pump module to the balloons while maintaining the installation's design integrity.
+- Inner Diameter: 3mm - Sufficient to provide adequate airflow for inflation and deflation, while ensuring quick response to user interactions.
+- Outer Diameter: 5mm - Provided the necessary durability and flexibility for the installation setup.
+#### Balloon Integration
+Selected balloons that could withstand repeated inflation and deflation cycles without losing elasticity or integrity.
+Balloons were also chosen based on their visual impact and how well they resonated with the thematic elements of the installation.
+#### Power Supply Considerations
+Opted for a reliable and consistent power supply to ensure the smooth operation of the air pumps and control system.
+Ensured that the power supply was capable of handling the installation's overall energy requirements, including the air pumps, control systems, and any additional lighting or sensory elements.
+
 
 ### Week 2: Development and Coding
 - Focused on coding the interactive elements, aiming to create an engaging user experience.
