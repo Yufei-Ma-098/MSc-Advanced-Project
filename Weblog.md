@@ -74,17 +74,15 @@ Ensured that the power supply was capable of handling the installation's overall
 - Initiated drafting of the academic paper to document the theoretical underpinnings, design process, and technical details of the project.
 
 ### Week 3: User Engagement and Feedback
-- Conducted extensive user testing sessions, and observed user interaction.
-- Analyzed user interactions, refining the installation based on observed patterns and responses.
+- This week, I conducted extensive user testing sessions to observe how participants interacted with "Tensions Within." I paid close attention to how they engaged with the installation, particularly noting their responses to the tactile buttons controlling the inflation and deflation.
+- I analyzed these interactions in-depth, focusing on how participants' choices mirrored their emotional states. This analysis was instrumental in refining the installation, ensuring that it effectively encapsulated the themes of tension, risk, and emotional projection.
 
 ### Week 4: Thesis Advancement
-- Continued developing the thesis, focusing on aligning the practical work with academic theories and context.
+- I dedicated this week to further developing my thesis, striving to weave together the practical elements of my installation with relevant academic theories. I focused particularly on aligning my work with Carl Jung's theory of projection and Kahneman and Tversky's Prospect Theory.
+- This involved a deep dive into the psychological aspects of my installation, examining how it serves as a reflective space for participants to confront and reconcile their internal and external tensions.
 
   
 ## November Activities
 ### Week 1: Finalizing Documentation
-- Dedicated efforts towards finalizing the academic paper and preparing for submission.
-- Began the production of a video demonstration, aiming to capture the essence and impact of the interactive installation.
-
-### Week 2: Capturing the Experience
-- Filmed the interactive installation in action, focusing on highlighting user interactions, emotional responses, and the overall impact.
+- I invested considerable effort in finalizing my academic essay, meticulously preparing it for submission. This paper detailed the theoretical foundations of "Tensions Within," its design mechanics, and the significance of its interactive elements.
+- Concurrently, I began producing a video demonstration of the installation. My objective was to capture the essence and impact of "Tensions Within," focusing on how it engages and transforms the audience’s perspectives.
