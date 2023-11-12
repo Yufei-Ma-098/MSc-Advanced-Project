@@ -74,7 +74,7 @@ Ensured that the power supply was capable of handling the installation's overall
 - Initiated drafting of the academic paper to document the theoretical underpinnings, design process, and technical details of the project.
 
 ### Week 3: User Engagement and Feedback
-- Conducted extensive user testing sessions, gathering critical feedback for further improvements.
+- Conducted extensive user testing sessions, and observed user interaction.
 - Analyzed user interactions, refining the installation based on observed patterns and responses.
 
 ### Week 4: Thesis Advancement
