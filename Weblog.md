@@ -55,21 +55,20 @@ Ensured that the power supply was capable of handling the installation's overall
 
 
 ### Week 2: Development and Coding
-- Focused on coding the interactive elements, aiming to create an engaging user experience.
+- Dedicated this week to developing the code for interactive elements. My aim was to create an engaging user experience that would resonate with users at an emotional level. This involved writing scripts in Arduino IDE, ensuring smooth communication between the hardware components and the interactive interface.
 
 ### Week 3: Concept Testing and Refinement
-- Conducted low-fidelity tests to refine the concept, ensuring technical feasibility and user engagement.
-- Iteratively improved the prototype based on initial test feedback.
+- Conducted several low-fidelity tests to refine the concept and ensure both technical feasibility and user engagement. These tests revealed valuable insights into how users interacted with the installation, guiding me to make iterative improvements to the prototype.
 
   
 ### Week 4: Finalizing the Concept
-- After comprehensive testing and feedback, finalized the overarching theme and concept for the installation.
-- Began detailed planning for the final construction and implementation of the installation.
+- After receiving comprehensive feedback, I finalized the overarching theme and concept for the installation. During the process, I faced a significant challenge: the cage, initially assembled with tube connectors, was not stable and would easily come apart under the pressure from the inflated balloons. This led me to spend two days exploring options at a local building materials market, where I eventually decided to switch to using wires for a more robust construction.
+- I started detailed planning for the final construction and implementation of the installation, considering this new approach.
 
 
 ## October Development
 ### Week 1: Realizing the Vision
-- Completed the first working demo of the interactive installation, showcasing its core features and interactive capabilities.
+- Completed the first working demo of the interactive installation, showcasing its core features and interactive capabilities. During this phase, I encountered another hurdle: the initially purchased 0.4mm diameter wire was too thin and would bend out of shape under the pressure from the balloons. This prompted another visit to the building materials market, where I opted for a sturdier 1mm diameter wire, offering the necessary strength and stability.
 
 ### Week 2: Academic Insights
 - Initiated drafting of the academic paper to document the theoretical underpinnings, design process, and technical details of the project.
