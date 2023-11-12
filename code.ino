@@ -1,7 +1,3 @@
-/**
- * Arduino controlling 6 air pumps
- */
-
 #define airPumpCont 6 // Number of air pumps
 int airPumpPin[airPumpCont] = {2, 4, 6, 8, 10, 12}; // Pins to control air pump inflation
 int airValvePin[airPumpCont] = {3, 5, 7, 9, 11, 13}; // Pins to control air valves for deflation
