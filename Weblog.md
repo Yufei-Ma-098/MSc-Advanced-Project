@@ -36,10 +36,14 @@
 - Tested different types of air pumps and sensors to understand their capabilities and limitations in the context of our interactive design.
 #### Decision on Air Pump and Valve Module
 After evaluating multiple options, decided to use an integrated air pump and valve module. This module was chosen for its efficiency and compact design, making it ideal for our installation.
+
+![image](https://github.com/Yufei-Ma-098/MSc-Advanced-Project/assets/119874724/6fdf79c7-2090-4102-be58-9478b0089b51)
+
 - Features of the Selected Module:
   - Three-Way Adapter: Facilitates the seamless transition between inflating and deflating, crucial for the dynamic interaction we envisioned.
   - Inflation and Deflation Buttons: These tactile buttons provide users with straightforward and intuitive control over the air flow, enhancing the interactive experience.
   - Compact and Robust Design: The module's small footprint allowed for easy integration into the installation without compromising on the aesthetic and functional aspects.
+
 #### Selecting the Tubing
 Chose specific tubing dimensions to ensure optimal airflow and installation design.
 Tube Specifications:
@@ -53,6 +57,9 @@ Balloons were also chosen based on their visual impact and how well they resonat
 Opted for a reliable and consistent power supply to ensure the smooth operation of the air pumps and control system.
 Ensured that the power supply was capable of handling the installation's overall energy requirements, including the air pumps, control systems, and any additional lighting or sensory elements.
 
+![image](https://github.com/Yufei-Ma-098/MSc-Advanced-Project/assets/119874724/73582432-3d5a-441e-b147-cfe43d6333c5)
+
+
 
 ### Week 2: Development and Coding
 - Dedicated this week to developing the code for interactive elements. My aim was to create an engaging user experience that would resonate with users at an emotional level. This involved writing scripts in Arduino IDE, ensuring smooth communication between the hardware components and the interactive interface.
@@ -65,10 +72,16 @@ Ensured that the power supply was capable of handling the installation's overall
 - After receiving comprehensive feedback, I finalized the overarching theme and concept for the installation. During the process, I faced a significant challenge: the cage, initially assembled with tube connectors, was not stable and would easily come apart under the pressure from the inflated balloons. This led me to spend two days exploring options at a local building materials market, where I eventually decided to switch to using wires for a more robust construction.
 - I started detailed planning for the final construction and implementation of the installation, considering this new approach.
 
+![image](https://github.com/Yufei-Ma-098/MSc-Advanced-Project/assets/119874724/202fd412-eb5a-4929-ba41-bef4fafab303)
+
+
 
 ## October Development
 ### Week 1: Realizing the Vision
 - Completed the first working demo of the interactive installation, showcasing its core features and interactive capabilities. During this phase, I encountered another hurdle: the initially purchased 0.4mm diameter wire was too thin and would bend out of shape under the pressure from the balloons. This prompted another visit to the building materials market, where I opted for a sturdier 1mm diameter wire, offering the necessary strength and stability.
+  
+![image](https://github.com/Yufei-Ma-098/MSc-Advanced-Project/assets/119874724/c68cbe3f-a804-4f72-b382-fa9bfb90bc72)
+
 
 ### Week 2: Academic Insights
 - Initiated drafting of the academic paper to document the theoretical underpinnings, design process, and technical details of the project.
