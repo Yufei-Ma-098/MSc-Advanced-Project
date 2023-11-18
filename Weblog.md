@@ -66,6 +66,9 @@ Ensured that the power supply was capable of handling the installation's overall
 
 ### Week 3: Concept Testing and Refinement
 - Conducted several low-fidelity tests to refine the concept and ensure both technical feasibility and user engagement. These tests revealed valuable insights into how users interacted with the installation, guiding me to make iterative improvements to the prototype.
+![image](https://github.com/Yufei-Ma-098/MSc-Advanced-Project/assets/119874724/a8835cc1-bc9f-48a1-a6ad-8b5af4797ca7)
+![image](https://github.com/Yufei-Ma-098/MSc-Advanced-Project/assets/119874724/60b1821f-053e-4975-a47e-4a21201cfdc7)
+
 
   
 ### Week 4: Finalizing the Concept
@@ -78,9 +81,12 @@ Ensured that the power supply was capable of handling the installation's overall
 
 ## October Development
 ### Week 1: Realizing the Vision
-- Completed the first working demo of the interactive installation, showcasing its core features and interactive capabilities. During this phase, I encountered another hurdle: the initially purchased 0.4mm diameter wire was too thin and would bend out of shape under the pressure from the balloons. This prompted another visit to the building materials market, where I opted for a sturdier 1mm diameter wire, offering the necessary strength and stability.
+- Completed the first working demo of the interactive installation, showcasing its core features and interactive capabilities. During this phase, I encountered another hurdle: the initially purchased 0.4mm diameter wire was too thin and would bend out of shape under the pressure from the balloons. This prompted another visit to the building materials market, where I opted for a sturdier 1mm diameter wire and modeling clay, offering the necessary strength and stability.
   
-![image](https://github.com/Yufei-Ma-098/MSc-Advanced-Project/assets/119874724/c68cbe3f-a804-4f72-b382-fa9bfb90bc72)
+![image](https://github.com/Yufei-Ma-098/MSc-Advanced-Project/assets/119874724/a5e612a5-1b65-41ac-b248-f57555fe3bbf)
+
+![image](https://github.com/Yufei-Ma-098/MSc-Advanced-Project/assets/119874724/ecb1d9af-8617-40cc-ba2e-067aa51799e3)
+
 
 
 ### Week 2: Academic Insights
@@ -89,6 +95,8 @@ Ensured that the power supply was capable of handling the installation's overall
 ### Week 3: User Engagement and Feedback
 - This week, I conducted extensive user testing sessions to observe how participants interacted with "Tensions Within." I paid close attention to how they engaged with the installation, particularly noting their responses to the tactile buttons controlling the inflation and deflation.
 - I analyzed these interactions in-depth, focusing on how participants' choices mirrored their emotional states. This analysis was instrumental in refining the installation, ensuring that it effectively encapsulated the themes of tension, risk, and emotional projection.
+![image](https://github.com/Yufei-Ma-098/MSc-Advanced-Project/assets/119874724/1600dbf2-80cd-4ea4-80cf-6df3d96356f5)
+
 
 ### Week 4: Thesis Advancement
 - I dedicated this week to further developing my thesis, striving to weave together the practical elements of my installation with relevant academic theories. I focused particularly on aligning my work with Carl Jung's theory of projection and Kahneman and Tversky's Prospect Theory.
@@ -99,3 +107,5 @@ Ensured that the power supply was capable of handling the installation's overall
 ### Week 1: Finalizing Documentation
 - I invested considerable effort in finalizing my academic essay, meticulously preparing it for submission. This paper detailed the theoretical foundations of "Tensions Within," its design mechanics, and the significance of its interactive elements.
 - Concurrently, I began producing a video demonstration of the installation. My objective was to capture the essence and impact of "Tensions Within," focusing on how it engages and transforms the audience’s perspectives.
+![image](https://github.com/Yufei-Ma-098/MSc-Advanced-Project/assets/119874724/76a82e6d-aca6-4a80-b0da-02b4a28e9cba)
+
