@@ -1,50 +1,51 @@
-/**
- * Arduino code to control 6 air pumps
- * Inflation continues until a button is pressed to stop.
- */
+#define airPumpCont 6  // Number of air pumps
 
-#define airPumpCont 6                     // Number of air pumps
+int airValvePin[airPumpCont] = {2, 4, 6, 8, 10, 12};  // Air valve pins for deflation
+int airPumpPin[airPumpCont] = {3, 5, 7, 9, 11, 13};   // Air pump pins for inflation
+int buttonPin = 14;                                   // Button pin for manual deflation control
 
-// Air valve (deflation) and air pump (inflation) pins
-int airValvePin[airPumpCont] = {2, 4, 6, 8, 10, 12};
-int airPumpPin[airPumpCont] = {3, 5, 7, 9, 11, 13};
+unsigned long recordTime[airPumpCont] = {0, 0, 0, 0, 0, 0};  // Record time for each stage
 
-// Button pin for stopping inflation
-const int buttonPin = A0;
+// Settings
+#define initializeTime 5000  // Initialization time (1 sec = 1000 ms)
 
-// Initialize states
-bool isPumping = true;
+long SetInflationTime[airPumpCont] = {
+  20 * 1000UL, 20 * 1000UL, 20 * 1000UL,
+  20 * 1000UL, 20 * 1000UL, 20 * 1000UL
+};
+long SetDeflationTime[airPumpCont] = {
+  2000, 2000, 2000, 2000, 2000, 2000
+};
+
+#define airPumpON HIGH       // Air pump ON - inflating
+#define airPumpOFF !airPumpON // Air pump OFF - stop inflating
+#define airValveON HIGH      // Air valve ON - deflating
+#define airValveOFF !airValveON  // Air valve OFF - stop deflating
 
 void setup() {
-  Serial.begin(9600);                    // Set baud rate
-  pinMode(buttonPin, INPUT_PULLUP);      // Set button pin as input with internal pull-up
+  Serial.begin(9600);
+  pinMode(buttonPin, INPUT_PULLUP);  // Set button pin as input
 
-  // Initialize pump and valve pins
   for (int i = 0; i < airPumpCont; i++) {
     pinMode(airPumpPin[i], OUTPUT);
     pinMode(airValvePin[i], OUTPUT);
-    digitalWrite(airPumpPin[i], LOW);    // Start with pumps off
-    digitalWrite(airValvePin[i], HIGH);  // Start with valves open
+    digitalWrite(airPumpPin[i], airPumpON);   // Start with inflation
+    digitalWrite(airValvePin[i], airValveOFF);
   }
 
   Serial.println("Initialization complete");
 }
 
 void loop() {
-  // Check button state
-  if (digitalRead(buttonPin) == LOW) {
-    isPumping = !isPumping;              // Toggle pumping state
-    delay(500);                          // Debounce delay
-  }
-
-  // Control pumps based on the isPumping state
   for (int i = 0; i < airPumpCont; i++) {
-    if (isPumping) {
-      digitalWrite(airPumpPin[i], HIGH);   // Inflate
-      digitalWrite(airValvePin[i], LOW);   // Close valve
+    if (digitalRead(buttonPin) == LOW) {  // Check if button is pressed
+      // Deflate when button is pressed
+      digitalWrite(airPumpPin[i], airPumpOFF);
+      digitalWrite(airValvePin[i], airValveON);
     } else {
-      digitalWrite(airPumpPin[i], LOW);    // Stop inflating
-      digitalWrite(airValvePin[i], HIGH);  // Open valve (deflate)
+      // Inflate by default
+      digitalWrite(airPumpPin[i], airPumpON);
+      digitalWrite(airValvePin[i], airValveOFF);
     }
   }
 }
